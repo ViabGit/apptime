@@ -13,22 +13,20 @@ sites:
   - name: Web Catedral
     url: https://catedralaltapatagonia.com
   - name: TCP ping 249
-    url: 181.47.157.249
+    url: 181.47.187.249
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
+  cname: viabgit.github.io/apptime
+  # Uncomment the following line if you don't havehttps://viabgit.github.io/apptime/ a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://f000.backblazeb2.com/file/Publicos/Busplus_logo_sl.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Viaupptime** Estado de servicios de Busplus"
+  introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
