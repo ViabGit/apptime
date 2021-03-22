@@ -17,7 +17,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: viabgit.github.io/apptime
+  cname: viabgit.github.io
   # Uncomment the following line if you don't havehttps://viabgit.github.io/apptime/ a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://f000.backblazeb2.com/file/Publicos/Busplus_logo_sl.png
