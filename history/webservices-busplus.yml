@@ -1,7 +1,7 @@
 url: https://ws.busplus.com.ar
-status: down
-code: 503
-responseTime: 20481
-lastUpdated: 2021-09-16T06:49:31.243Z
+status: up
+code: 200
+responseTime: 722
+lastUpdated: 2021-09-16T06:54:10.427Z
 startTime: Mon Mar 22 2021 14:10:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
